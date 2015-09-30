@@ -1,0 +1,31 @@
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.exe
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.pdb
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\yatzy.exe
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\yatzy.pdb
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\YatsyLibrary.dll
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\YatsyLibrary.pdb
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\YahtzeeApp.Form1.resources
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\YahtzeeApp.Properties.Resources.resources
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\yatzy.exe
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\yatzy.pdb
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\bin\Debug\yatzy.exe
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\bin\Debug\yatzy.pdb
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\bin\Debug\YatsyLibrary.dll
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\bin\Debug\YatsyLibrary.pdb
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\yatzyApp.csprojResolveAssemblyReference.cache
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\YahtzeeApp.Form1.resources
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\YahtzeeApp.Properties.Resources.resources
+C:\vs_proj2012_12V\dag05\YATZY\YATZY\obj\x86\Debug\yatzyApp.csproj.GenerateResource.Cache
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\yatzy.exe
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\yatzy.pdb
+D:\VS2013\Dag 10\YATZY\yatzy\bin\Debug\yatzy.exe
+D:\VS2013\Dag 10\YATZY\yatzy\bin\Debug\yatzy.pdb
+D:\VS2013\Dag 10\YATZY\yatzy\bin\Debug\YatsyLibrary.dll
+D:\VS2013\Dag 10\YATZY\yatzy\bin\Debug\YatsyLibrary.pdb
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\yatzyApp.csprojResolveAssemblyReference.cache
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\YahtzeeApp.Form1.resources
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\YahtzeeApp.Properties.Resources.resources
+D:\VS2013\Dag 10\YATZY\yatzy\obj\x86\Debug\yatzyApp.csproj.GenerateResource.Cache

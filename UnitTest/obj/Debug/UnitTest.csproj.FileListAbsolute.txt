@@ -1,0 +1,7 @@
+D:\VS2013\Dag 10\YATZY\UnitTest\bin\Debug\UnitTest.dll
+D:\VS2013\Dag 10\YATZY\UnitTest\bin\Debug\UnitTest.pdb
+D:\VS2013\Dag 10\YATZY\UnitTest\bin\Debug\YatsyLibrary.dll
+D:\VS2013\Dag 10\YATZY\UnitTest\bin\Debug\YatsyLibrary.pdb
+D:\VS2013\Dag 10\YATZY\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\VS2013\Dag 10\YATZY\UnitTest\obj\Debug\UnitTest.dll
+D:\VS2013\Dag 10\YATZY\UnitTest\obj\Debug\UnitTest.pdb

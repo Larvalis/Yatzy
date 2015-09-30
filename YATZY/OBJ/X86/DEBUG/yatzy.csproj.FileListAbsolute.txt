@@ -1,0 +1,9 @@
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\yatzy.exe
+C:\boas_proj\opg\dag2\yatzy\yatzy\bin\Debug\yatzy.pdb
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.Form1.resources
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.Properties.Resources.resources
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.exe
+C:\boas_proj\opg\dag2\yatzy\yatzy\obj\x86\Debug\yatzy.pdb
